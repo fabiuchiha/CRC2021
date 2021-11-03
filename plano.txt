@@ -1,0 +1,23 @@
+
+Introduçao:
+	-Introduçao a community finding (teoria)
+	-Introduçao dos metodos de community finding a usar (teoria)
+	-Propriedades das redes a usar: 2 reais e 2 benchmarks? tabela com propriedades das redes
+	 (nodes, edges, expected coms, kmax, average degree, APL, clustering coefficience) e histograma degrees
+	
+Metodos community finding:
+	-Louvain, Girvan-Newman, CFinder(kcliques), InfoMap (tabela com avaliaçao interna? e externa?)
+	-Testar GN para diferentes valores de parametros? grafico
+	-Analisar tempos de execuçao? tabela
+	-Comparaçao de accuracy com labels (grafico/tabela)
+	-Ranking de metodos?
+	
+Redes:
+	-LFR e SBM (testar para diferentes parametros) grafico
+	-Uma rede pequena e outra grande? Todas undirected pra simplificar a nossa vida?
+	-Comparaçao de accuracy com labels (grafico/tabela)
+	
+Modularidade e Robutness Modularity (new approach) (para louvain e leiden?)
+	
+Conclusoes
+
