@@ -1,5 +1,3 @@
-CRC2021
-
  the code used in this project
  was created using a jupyter notebbok
  
